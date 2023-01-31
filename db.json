@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@ryo-kurniawan 
-ryo-kurniawan
-/
-prolog-backend
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-prolog-backend/db.json
-@ryo-kurniawan
-ryo-kurniawan initial commit
-Latest commit 58798d2 8 minutes ago
- History
- 1 contributor
-80 lines (80 sloc)  1.43 KB
-
 {
   "best-pakets": [
     {
@@ -109,18 +78,3 @@ Latest commit 58798d2 8 minutes ago
   "keranjangs": [],
   "pesanans": []
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-prolog-backend/db.json at master · ryo-kurniawan/prolog-backend
