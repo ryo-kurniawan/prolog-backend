@@ -1,0 +1,126 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@ryo-kurniawan 
+ryo-kurniawan
+/
+prolog-backend
+Public
+Cannot fork because you own this repository and are not a member of any organizations.
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+prolog-backend/db.json
+@ryo-kurniawan
+ryo-kurniawan initial commit
+Latest commit 58798d2 8 minutes ago
+ History
+ 1 contributor
+80 lines (80 sloc)  1.43 KB
+
+{
+  "best-pakets": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Pre Wedding",
+      "harga": 1500000,
+      "is_ready": true,
+      "gambar": "prewed.png"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Wedding",
+      "harga": 3000000,
+      "is_ready": true,
+      "gambar": "wedding.png"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Product",
+      "harga": 1000000,
+      "is_ready": true,
+      "gambar": "product.png"
+    }
+  ],
+  "pakets": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Pre Wedding",
+      "harga": 1500000,
+      "is_ready": true,
+      "gambar": "prewed.png"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Wedding",
+      "harga": 3000000,
+      "is_ready": true,
+      "gambar": "wedding.png"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Product",
+      "harga": 1000000,
+      "is_ready": true,
+      "gambar": "product.png"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Graduation",
+      "harga": 1000000,
+      "is_ready": true,
+      "gambar": "graduation.png"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Birthday",
+      "harga": 1500000,
+      "is_ready": true,
+      "gambar": "birthday.png"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Model",
+      "harga": 2000000,
+      "is_ready": true,
+      "gambar": "model.png"
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": []
+}
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+prolog-backend/db.json at master · ryo-kurniawan/prolog-backend
